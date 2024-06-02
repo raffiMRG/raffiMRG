@@ -1,8 +1,6 @@
   <h1 align="center">Hi 👋, I'm raffiMRG</h1>
 <h3 align="center">someone who is still learning to be a programmer</h3>
 
-<-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffimrg&label=Profile%20views&color=0e75b6&style=flat" alt="raffimrg" /> </p> -->
-
 <p align="left"> <a href="https://github.com/raffiMRG"><img src="https://github-profile-trophy.vercel.app/?username=raffimrg" alt="raffimrg" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
