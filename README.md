@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raffimrg&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raffimrg&theme=radical&hide_border=false" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=raffimrg&theme=radical&hide_border=true" height="165" />
 </p>
 
 <!-- <p align="center">
